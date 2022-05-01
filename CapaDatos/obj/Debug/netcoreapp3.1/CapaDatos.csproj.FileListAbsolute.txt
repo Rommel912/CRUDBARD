@@ -1,0 +1,5 @@
+C:\Users\N3t0\source\repos\CRUDBAR-REZV\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\N3t0\source\repos\CRUDBAR-REZV\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N3t0\source\repos\CRUDBAR-REZV\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\N3t0\source\repos\CRUDBAR-REZV\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+C:\Users\N3t0\source\repos\CRUDBAR-REZV\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
